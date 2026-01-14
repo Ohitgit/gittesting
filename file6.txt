@@ -1,1 +1,8 @@
 hhh
+1) checkout new branch 
+2) git add .
+3) git commit
+4) git checkout main
+5) git pull orignin main
+6)git merge feature login
+7) git push
